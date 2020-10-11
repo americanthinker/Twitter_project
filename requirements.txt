@@ -2,6 +2,11 @@
 -e .
 
 # external requirements
+scikit-learn
+textblob
+ipykernel
+pandas
+numpy
 click
 Sphinx
 coverage
